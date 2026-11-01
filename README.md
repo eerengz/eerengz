@@ -1,16 +1,27 @@
-# Eren Gürbüz
+<p align="center"><sub>SOFTWARE · LINUX DESKTOP</sub></p>
 
-**Software developer building tools for the Linux desktop.**
+<h1 align="center">Eren Gürbüz</h1>
 
-I focus on practical Omarchy extensions, clear interfaces, and small utilities that behave predictably.
+<p align="center">I build practical Omarchy extensions with clear interfaces and predictable behavior.</p>
 
-## Selected work
+<hr />
 
-- [Aether Notch](https://github.com/eerengz/omarchy-plugin-aether-notch) — A theme-aware Omarchy bar widget with quick controls and media playback.  
-  `QML` · `Quickshell`
-- [Aether Guard](https://github.com/eerengz/omarchy-plugin-aether-guard) — Read-only system checks for Omarchy updates, with update actions left to the user.  
-  `QML` · `JavaScript`
+<p align="center"><sub>SELECTED WORK</sub></p>
 
-## Tools
+### 01 — Interface
 
-`QML` · `JavaScript` · `Linux` · `Quickshell` · `Git`
+**[Aether Notch](https://github.com/eerengz/omarchy-plugin-aether-notch)**  
+A theme-aware Omarchy bar capsule with quick controls and media playback.  
+`QML` · `Quickshell`
+
+### 02 — System tooling
+
+**[Aether Guard](https://github.com/eerengz/omarchy-plugin-aether-guard)**  
+Read-only update checks that leave system changes to an explicit user action.  
+`QML` · `JavaScript`
+
+<hr />
+
+<p align="center"><sub>TOOLS</sub></p>
+
+<p align="center">`QML` · `JavaScript` · `Quickshell` · `Linux` · `Git`</p>
