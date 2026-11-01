@@ -24,4 +24,4 @@ Read-only update checks that leave system changes to an explicit user action.
 
 <p align="center"><sub>TOOLS</sub></p>
 
-<p align="center">`QML` · `JavaScript` · `Quickshell` · `Linux` · `Git`</p>
+<p align="center"><code>QML</code> · <code>JavaScript</code> · <code>Quickshell</code> · <code>Linux</code> · <code>Git</code></p>
